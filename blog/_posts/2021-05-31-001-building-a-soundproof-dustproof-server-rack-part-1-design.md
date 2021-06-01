@@ -19,24 +19,24 @@ In the interest of homelab longevity, I don't want to force lower fan speeds. In
 The main body of the rack is 21.875" wide, 25.375" tall, and 41.25" deep. This provides 12U of 30" deep rack space. The bottom supports add 4" of height, and the rear exhaust baffle (on top) adds another 4".
 
 ### Structure
-![Internal rack structure](/images/2021-05-11/frame.png)
+![Internal rack structure](/images/001/frame.png)
 
 A box made entirely of plywood is a little tricky because screwing into the edge can cause it to split. So the rack is supported by a frame made of 2x2's, and each plywood piece can be screwed through its face. I'll probably also glue everything together for extra strength. The rack rails are screwed into 2x1's, which are then attached vertically between top and bottom 2x2's. The plywood on the side will also be screwed and glued to these. One subtlety to note is that the side pieces of plywood sit in between the top and bottom pieces so load is transfered through the sides from top to bottom. It probably doesn't matter much since there's not much weight on top, but might as well do it right. The other notable detail is the half-width section of the frame near the back. This is to allow space for the sound-proofing material on the side panels, which is described later.
 
 ### Front Door
-![Front door hinge](/images/2021-05-11/frontdoor.png)
+![Front door hinge](/images/001/frontdoor.png)
 
 The front door uses a double piano hinge to allow it to rotate 270° and rest on top of the rack. Weather stripping and a couple latches (not pictured) will provide a tight seal between the door and the body. Putting hinges on the side for a "regular" door is also an option, and would probably be easier if you have the space.
 
 ### Rear Access
-![Rear access](/images/2021-05-11/rearaccess.png)
+![Rear access](/images/001/rearaccess.png)
 
 The rear side of the rack is accessed by rotating the exhaust baffle out of the way then removing some side panels. Note the additional 2x1 between the baffle and the hinge, which moves the axis of rotation further away so the baffle can move completely out of the way of the side panels. The side panels sit between some steel brackets and the interior frame to hold them in place when the rack is closed while still being easy to remove. The reason for doing this is to allow the rack to be placed in the corner of a room, for example. In my case, there are two 45° roof trusses on either side of the rack, and a wall behind it, so no kind of door would work.
 
 Getting an airtight seal here is slightly less of a concern, since the outward airflow in the exhaust area will mostly prevent dust from entering. I plan on adding a little bit of weather stripping anyways, though, especially between the exhaust baffle and the side panels. I'll use some latches here as well to hold the exhaust baffle and side panels down.
 
 ### Sound Proofing
-![Sound proofing](/images/2021-05-11/soundproofing.png)
+![Sound proofing](/images/001/soundproofing.png)
 
 Sound proofing is achieved through three layers. The first is 1 lb MLV (Mass-Loaded Vinyl), which is 1/8" thick. This layer will be stapled to the plywood. It works by adding a lot of mass which absorbs the energy from the sound waves. The sound waves cause the MLV vibrate - separately from the plywood so it doesn't transfer the sound - and somehow this reflects part of the sound waves back through the other layers for additional filtering.
 
@@ -49,18 +49,18 @@ Is this total overkill? Probably. It's likely that just having it in a massive b
 In some areas, there isn't enough space for all three layers, so I'll just use MLV and the foam.
 
 ### Air Flow
-![Air flow](/images/2021-05-11/airflow.png)
+![Air flow](/images/001/airflow.png)
 
 Since the box will be totally sealed off, air flow has to be carefully designed. Following some commercial soundproof rack designs, I put the five-fan intake in the front on the bottom to create a "wall" of cool air. This air is drawn through the rack equipment to the back, where another five fans blow the air out the top. For this scheme to work, it's important that there aren't any open spaces in the rack that would allow the intake and exhaust to mix, so I'll have to cover up the few empty spots with blank plates.
 
 #### Intake Baffle
-![Intake Baffle](/images/2021-05-11/intakebaffle.png)
+![Intake Baffle](/images/001/intakebaffle.png)
 
 The Intake Baffle serves a few purposes. First, it helps with the soundproofing. Just having a large hole in the box would let some of the sound "leak" out, including the sound of the fans themselves. By adding several 90° turns lined with acoustic foam, the sound energy, especially at high frequencies, will get absorbed. It also directs the remaining sound towards the back of the rack, rather than the front. Similarly, it allows the intake air to be drawn from the bottom towards the middle of the box, away from potential obstructions or debris. Finally, some magnetic adhesive strips around the intake holes will be used to attached MERV-13 (or maybe -16) filter material to prevent dust from getting in.
 
 #### Exhaust Baffle
-![Exhaust Baffle](/images/2021-05-11/exhaustbaffle.png)
-![Exhaust Baffle Alternate Angle](/images/2021-05-11/exhaustbaffle2.png)
+![Exhaust Baffle](/images/001/exhaustbaffle.png)
+![Exhaust Baffle Alternate Angle](/images/001/exhaustbaffle2.png)
 
 The Exhaust Baffle functions similarly to the Intake. It provides a quiet exhaust path for the hot air, and is placed on top to take advantage of convection. Since the rack will be placed against the wall, the exhaust holes are at the top rather than the back, but in applications where that's not the case, this could be an exact copy of the Intake Baffle. Filtering isn't necessary here since the pressure of the exhaust will keep dust out.
 
