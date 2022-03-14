@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 This is Part 1 of a series: "Building a Soundproof, Dustproof Server Rack"
 1. Part 1: Design
 2. [Part 2: Airflow Testing](/blog/2021/06/29/002-building-a-soundproof-dustproof-server-rack-part-2-airflow-testing)
+3. [Part 3: The Build](/blog/2022/03/15/003-building-a-soundproof-dustproof-server-rack-part-3-the-build/)
 
 ## Introduction
 We recently moved into a new condo with an attic, which gave me the opportunity to relocate my server rack out of the guest bedroom closet and into a room where the fans spinning up won't wake people up. Until now, my homelab has continued to live in its Startech 12U rack, but I quickly discovered two problems caused by the attic being an exterior room: first, it's extremely dusty, and second, it's not insulated. When its about 80°F outside, the temperature in the attic gets up to 100°F, even with proper roof ventilation. This causes my R720XD fans to spin up. To the max. Which I can then hear through the entire house. With all the doors closed.
