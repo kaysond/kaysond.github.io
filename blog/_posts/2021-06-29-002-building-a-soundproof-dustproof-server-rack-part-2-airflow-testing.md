@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 This is Part 2 of a series: "Building a Soundproof, Dustproof Server Rack"
 1. [Part 1: Design](/blog/2021/05/31/001-building-a-soundproof-dustproof-server-rack-part-1-design/)
 2. Part 2: Airflow Testing
-3. [Part 3: The Build](/blog/2022/04/12/003-building-a-soundproof-dustproof-server-rack-part-3-the-build/)
+3. [Part 3: The Build](/blog/2022/04/13/003-building-a-soundproof-dustproof-server-rack-part-3-the-build/)
 
 ## Introduction
 The most frequent comment I saw about Part 1 was concern about airflow. I had always planned on doing some kind of rough testing, but seeing the extra concern, which I already shared, I decided to do something a little more rigorous.
