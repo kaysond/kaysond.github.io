@@ -213,7 +213,7 @@ As mentioned earlier, I mainly used MLV for the soundproofing, but there were a 
 
 ## A Soundproof, Dustproof Server Rack
 
-It's finally done! The whole project took me about 3 months of intermittent work. I probably could've knocked it out in a few days with more consistency, better tools, and a workspace that didn't require setup and takedown. All of the pictures are available in a gallery [here](https://imgur.com/a/nzzGnhS)
+It's finally done! The whole project took me about 3 months of intermittent work. I probably could've knocked it out in a few days with more consistency, better tools, and a workspace that didn't require setup and takedown. All of the pictures are available in a gallery [here](https://imgur.com/gallery/nzzGnhS)
 
 [![Finished Rack 1](/images/003/finished1.jpg)](/images/003/finished1.jpg) [![Finished Rack 2](/images/003/finished2.jpg)](/images/003/finished2.jpg) [![Finished Rack 3](/images/003/finished3.jpg)](/images/003/finished3.jpg) [![Finished Rack 4](/images/003/finished4.jpg)](/images/003/finished4.jpg) [![Finished Rack 5](/images/003/finished5.jpg)](/images/003/finished5.jpg)
 
