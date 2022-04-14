@@ -3,7 +3,7 @@ layout: post
 title: "Building a Soundproof, Dustproof Server Rack, Part 3: The Build"
 excerpt_separator: <!--more-->
 ---
-<div class="banner"><a href="/images/003/banner.png"><img class="banner" src="/images/003/banner.png" alt="Banner"></a></div>
+<div class="banner"><a href="/images/003/banner.jpg"><img class="banner" src="/images/003/banner.jpg" alt="Banner"></a></div>
 
 This is Part 3 of a series: "Building a Soundproof, Dustproof Server Rack"
 1. [Part 1: Design](/blog/2021/05/31/001-building-a-soundproof-dustproof-server-rack-part-1-design/)
