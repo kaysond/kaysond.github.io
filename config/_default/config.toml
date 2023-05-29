@@ -1,0 +1,7 @@
+baseURL = 'https://n1.602176634e-19.pro/'
+languageCode = 'en-us'
+title = 'e-'
+theme = 'DoIt'
+summaryLength = 70
+enableRobotsTXT = true
+enableEmoji = true
