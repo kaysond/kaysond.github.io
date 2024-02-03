@@ -2,7 +2,11 @@
 title: "Addressing the Thermal Problems of the Louqe RAW S1"
 date: 2023-10-04
 tags: [hardware, thermal, sff, pc]
+series: [louqe-raw-s1]
+series_weight: 1
+description: "This post is a follow-up to my previous Reddit post: First Impressions of the Louqe RAW S1 - a Mini-Review and Initial Thermal Analysis. The conclusion was that the case suffers from poor thermal design, and while some of it could be mitigated, some of it could not. It's a real shame, because in it's class (12L vertical sandwich), it really doesn't have any competition in the looks department. I like the design language so much, I spent way too much time investigating and fixing the thermal issues so I could use it as my primary desktop without it repeatedly overheating. I hope that the following will help others be able to use this case better as well."
 ---
+<!--more-->
 ## Introduction
 This post is a follow-up to my previous Reddit post: [First Impressions of the Louqe RAW S1 - a Mini-Review and Initial Thermal Analysis](https://www.reddit.com/r/sffpc/comments/10y0d3a/first_impressions_of_the_louqe_raw_s1_a/). The conclusion was that the case suffers from poor thermal design, and while some of it could be mitigated, some of it could not. It's a real shame, because in it's class (12L vertical sandwich), it really doesn't have any competition in the looks department. I like the design language so much, I spent way too much time investigating and fixing the thermal issues so I could use it as my primary desktop without it repeatedly overheating. I hope that the following will help others be able to use this case better as well.
 
