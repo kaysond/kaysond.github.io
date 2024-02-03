@@ -10,6 +10,9 @@ tags: [woodworking, hardware]
 featuredImage: images/banner.jpg
 ---
 <!--more-->
+## Introduction
+This post is intended to serve as a step-by-step guide for anyone who wants to build their own rack. All of the necessary drawings are available as PDFs (black and white with dimensions and color), as is the full Fusion360 project. I have a limited amount of woodworking experience; however, this project was very accessible because there were no advanced techniques or joints, just a lot of cutting, gluing, and fastening. Confidence with powertools is definitely necessary.
+
 ## A Design Change
 Before getting into the details of the build, I want to highlight one big design change since the last posts were published. The original intake baffle design was severely limiting the airflow because of the small inlets. A keen redditor suggested that by making the pressure drop over a larger surface area (i.e. making the filter bigger), the fans would be able to move more air, more easily. To accommodate this, I moved the filter to a shadowbox on the outside of the front door, and sized it to take a standard AC filter. The bottom of the shadowbox is open and fits over a hole in the base of the rack. The intake baffle is a "U" shape, pulling air down through the hole in the front, around the bend, and up into the interior.
 

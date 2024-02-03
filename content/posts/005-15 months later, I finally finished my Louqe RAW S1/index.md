@@ -49,7 +49,7 @@ Another easy mod I applied to the GPU was putting some weather stripping and foa
 {{< figure src="images/gpu hole.webp" title="Cutting a Very Ugly Hole in an Otherwise Very Nice GPU" >}}
 {{< figure src="images/gpu seal.jpg" title="Foam to Seal the GPU Intake" >}}
 
-## Thermal and Noise Performance
+## Thermal and Acoustic Performance
 With all of this effort, how does it actually perform? I'm happy to say, the answer is: quite well.
 
 My final build is:
@@ -59,7 +59,7 @@ My final build is:
 * **GPU:** Radeon RX 7800 XT (90% clock speed, 95% voltage, 30% max fan peed)
 * **Exhaust Fan:** Noctua NF-A12x25 @ 40% idle, 60% load
 
-[PC Part Picker Link]()
+[PC Part Picker Link](https://pcpartpicker.com/b/6JW323)
 
 ### Thermal Performance
 * **Ambient:** 22C
@@ -67,7 +67,7 @@ My final build is:
 * **CPU (Cinebench Multi Core):** 88C
 * **GPU (Furmark):** 57C (74C Hotspot)
 
-### Noise Performance
+### Acoustic Performance
 * **Ambient Noise:** 35dB
 * **Idle Noise:** 35dB
 * **Load Noise:** 43dB
@@ -76,3 +76,6 @@ I spent some time tweaking the fan curves so that the PC is completely inaudible
 
 ## Conclusion
 I'm never doing this again! It was an enormous amount of work, and for the entire 15 months I worked on this project, my desk and office were a total mess. If I ever get a new case, it will definitely be one that has solid thermal performance out of the box. That being said, I learned a ton about 3D printing, 3D design, thermophysics, acoustics, and more. Despite the challenge, I still think the Louqe RAW S1 is the best looking case of its class, and I'm glad I was able to get it to a point where it performs well in every way.
+
+{{< figure src="images/completed.webp" title="It's finally done!" >}}
+{{< figure src="images/battle station.webp" title="Bonus battle station pic" >}}
